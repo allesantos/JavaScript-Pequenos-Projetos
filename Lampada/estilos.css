@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: arial;
+}
+
+.titulo {
+    height: 40px;
+    font: bold 2rem arial;
+    border-bottom: solid 5px #050505;
+}
