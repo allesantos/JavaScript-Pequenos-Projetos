@@ -8,7 +8,6 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 - [🚀 Recursos](#-recursos)
 - [🛠 Tecnologias](#-tecnologias)
 - [✅ Pré-requisitos](#-pré-requisitos)
-- [▶️ Uso](#-uso)
 - [💾 Instalação](#-instalação)
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
