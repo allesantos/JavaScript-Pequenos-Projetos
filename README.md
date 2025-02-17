@@ -31,6 +31,8 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 
 ## 📂 Projetos
 - 💡 01-Lampada: Página web onde o usuário pode interagir com uma lâmpada como acender e apagar.
+
+     <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/JavaScript-ProjetosDiversos/lampada.png">
    
 - ⚖️ 02-IMC: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
 
