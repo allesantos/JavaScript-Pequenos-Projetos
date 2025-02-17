@@ -35,6 +35,8 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 - ⚖️ 02-IMC: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
    
 - ⏳ 03-Horario-Brasilia: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
+
+  [![texto](https://github.com/allesantos/allesantos/blob/main/imagens/JavaScript-ProjetosDiversos/Brasilia.png)](https://www.youtube.com/watch?v=K1_E-qF2N_I "texto")
    
 - 🔀 04-Boletim-Escolar: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
 
