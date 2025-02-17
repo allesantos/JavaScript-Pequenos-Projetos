@@ -50,14 +50,16 @@ Para visualizar e testar os projetos, você precisará de:
 
 ## 🔧 Instalação
 1. Clone o repositório:
+   
    ```sh
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2. Acesse a pasta do projeto:
+3. Acesse a pasta do projeto:
+   
    ```sh
    cd seu-repositorio
 
-3. Abra o arquivo index.html de cada projeto no navegador.
+5. Abra o arquivo index.html de cada projeto no navegador.
 ---
 
 ## 🤝 Contribuição
