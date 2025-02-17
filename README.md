@@ -33,11 +33,13 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 - 💡 01-Lampada: Página web onde o usuário pode interagir com uma lâmpada como acender e apagar.
    
 - ⚖️ 02-IMC: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
+
+     <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/imc.png">
    
 - ⏳ 03-Horario-Brasilia: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
      Clique na imagem abaixo para acessar o vídeo mostrando como eu fiz este miniprojeto.
 
-  [![texto](https://github.com/allesantos/allesantos/blob/main/imagens/JavaScript-ProjetosDiversos/Brasilia.png)](https://www.youtube.com/watch?v=K1_E-qF2N_I "texto")
+     [![texto](https://github.com/allesantos/allesantos/blob/main/imagens/JavaScript-ProjetosDiversos/Brasilia.png)](https://www.youtube.com/watch?v=K1_E-qF2N_I "texto")
    
 - 🔀 04-Boletim-Escolar: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
 
