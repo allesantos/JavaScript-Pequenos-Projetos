@@ -32,9 +32,12 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 
 ## 📂 Projetos
 1. **💡 Interação com uma lâmpada**: Página web onde o usuário pode interagir com uma lâmpada, acendendo, apagando e quebrando-a.
-2. **⚖️ Cálculo do IMC**: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
-3. **⏳ Data e Hora em Tempo Real**: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
-4. **🔀 Uso de Estruturas Condicionais**: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
+   
+3. **⚖️ Cálculo do IMC**: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
+   
+5. **⏳ Data e Hora em Tempo Real**: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
+   
+7. **🔀 Uso de Estruturas Condicionais**: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
 
 ---
 
