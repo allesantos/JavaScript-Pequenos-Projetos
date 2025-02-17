@@ -15,17 +15,17 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 ---
 
 ## 🚀 Recursos
-🔹 Interação com elementos da página
-🔹 Cálculo matemático simples
-🔹 Manipulação de data e hora em tempo real
-🔹 Estruturas condicionais aplicadas na prática
+- Interação com elementos da página
+- Cálculo matemático simples
+- Manipulação de data e hora em tempo real
+- Estruturas condicionais aplicadas na prática
 
 ---
 
 ## 🛠 Tecnologias
-✅ HTML
-✅ CSS
-✅ JavaScript
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript
 
 ---
 
