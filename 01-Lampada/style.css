@@ -1,0 +1,48 @@
+/* Define a estilização geral da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte padrão do texto */
+    background-color: white; /* Define o fundo da página como branco */
+    text-align: center; /* Centraliza todo o conteúdo dentro do body */
+    margin: 0; /* Remove margens externas padrão */
+    padding: 0; /* Remove preenchimento interno padrão */
+    display: flex; /* Usa o modelo de layout flexível */
+    flex-direction: column; /* Organiza os elementos em coluna (de cima para baixo) */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: center; /* Centraliza os itens verticalmente */
+    height: 100vh; /* Define a altura da página como 100% da altura da tela */
+    overflow: hidden; /* Remove a barra de rolagem da página */
+}
+
+/* Estilização do título */
+h1 {
+    font-family: 'Poppins', sans-serif; /* Define a fonte do título como Poppins */
+    font-size: 2.5em; /* Define o tamanho da fonte para 2.5 vezes o tamanho padrão */
+    font-weight: 600; /* Define a espessura da fonte como semi-negrito */
+    color: #333; /* Define a cor do texto como um tom escuro de cinza */
+    margin-bottom: 80px; /* Adiciona um espaçamento abaixo do título para afastá-lo da imagem */
+}
+
+/* Ajusta a imagem da lâmpada */
+img {
+    width: 350px; /* Define a largura fixa da lâmpada como 350 pixels */
+    max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho da tela em dispositivos menores */
+    transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave ao efeito de escala */
+}
+
+/* Aumenta um pouco a lâmpada quando o mouse passa por cima */
+img:hover {
+    transform: scale(1.1); /* Faz a imagem crescer 10% ao passar o mouse */
+}
+
+/* Rodapé com créditos */
+footer {
+    margin-top: 30px; /* Adiciona um espaço acima do rodapé para afastá-lo da lâmpada */
+    padding: 10px; /* Adiciona um preenchimento interno para melhorar a aparência */
+    width: 100%; /* Faz o rodapé ocupar toda a largura da tela */
+    background-color: #f1f1f1; /* Define a cor de fundo do rodapé como cinza claro */
+    color: #333; /* Define a cor do texto como um tom escuro de cinza */
+    text-align: center; /* Centraliza o texto dentro do rodapé */
+    font-size: 14px; /* Define um tamanho de fonte menor para o texto do rodapé */
+    position: absolute; /* Mantém o rodapé sempre na parte inferior da página */
+    bottom: 0; /* Alinha o rodapé na base da tela */
+}
