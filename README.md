@@ -43,6 +43,8 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
    
 - 🔀 04-Boletim-Escolar: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
 
+     <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/JavaScript-ProjetosDiversos/boletim.png">
+
 ---
 
 ## 📌 Pré-requisitos
