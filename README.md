@@ -30,13 +30,13 @@ Este repositório contém um compilado de pequenos projetos desenvolvidos com HT
 ---
 
 ## 📂 Projetos
-01-Lampada 💡 : Página web onde o usuário pode interagir com uma lâmpada, acendendo, apagando e quebrando-a.
+💡 01-Lampada: Página web onde o usuário pode interagir com uma lâmpada, acendendo, apagando e quebrando-a.
    
-02-IMC ⚖️ : Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
+⚖️ 02-IMC: Página que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base na altura e peso inseridos.
    
-03-Horario-Brasilia ⏳: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
+⏳ 03-Horario-Brasilia: Demonstração de como exibir e atualizar dinamicamente a data e a hora em tempo real na página.
    
-04-Boletim-Escolar 🔀 : Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
+🔀 04-Boletim-Escolar: Aplicação de estruturas condicionais aninhadas para demonstrar diferentes comportamentos baseados em entradas do usuário.
 
 ---
 
